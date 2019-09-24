@@ -1,0 +1,5 @@
+name: pangeo-ocean-examples
+channels:
+  - fbriol  # The migration to conda-forge is in progress
+dependencies:
+  - pytide
